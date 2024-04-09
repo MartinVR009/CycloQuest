@@ -10,7 +10,8 @@ CycloQuest es una aplicacion movil que busca crear un espacio inmersivo y divert
 </ul>
 
 Promueve la exploración de la ciudad en bicicleta y el contacto social a través de desafíos a medida y gratificaciones, mejorando la experiencia del ciclismo urbano. Su estructura adaptable permite generar ingresos mediante asociaciones estratégicas, brindando incentivos y ofertas que garantizan su sostenibilidad y crecimiento.
-<form>
-	<input type = "text" placeholder = "Full Name" name = "name" >
-	<input type = "submit">
-</form>
+
+
+<h1>Tareas de equipo para el desarrollo de la app</h1>
+
+
