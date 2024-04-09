@@ -35,7 +35,10 @@ Pantalla Retos:
   <li>Aproved</li>
     <ul>
       <li>Desarrollo del Backend para CicloParqueaderos </li>
-      <li> <li>
+      <ul>
+        <li>Configurar el servidor y la base de datos</li>
+        <li>Crear modelos de datos para parqueaderos y puntos de interés</li>
+      </ul>
     <ul>
   <li>Commited</li>
     <ul>
