@@ -14,11 +14,11 @@ Promueve la exploración de la ciudad en bicicleta y el contacto social a travé
 <h2>Casos de Uso</h2>
 <h4>De la aplicacion</h4>
 Pantalla Principal:
-<img src = "casodeuso1.png", alt = "Image", width = 400px>
+<img src = "casodeuso1.png", alt = "Image", width = 300px>
 Pantalla Social:
-<img src = "casodeuso2.png", alt = "Image2", width = 400px>
+<img src = "casodeuso2.png", alt = "Image2", width = 300px>
 Pantalla Retos:
-<img src = "casodeuso3.png", alt = "Image3", width = 300px>
+<img src = "casodeuso3.png", alt = "Image3", width = 200px>
 <h1>Tareas de equipo para el desarrollo de la app</h1>
 
 
