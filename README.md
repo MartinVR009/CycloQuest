@@ -23,7 +23,7 @@ Pantalla Retos:
 <ol>
     <li>New</li>
     <ul>
-      <li>Integración de parqueadores con el Mapa Principal<li>
+      <li>Integración de parqueadores con el Mapa Principal</li>
           <ul>
             <li>Implementar la funcionalidad de geolocalización para ubicar parqueaderos</li>
             <li>Desarrollar el sistema de filtrado de búsqueda en el mapa según preferencias de usuario</li>
