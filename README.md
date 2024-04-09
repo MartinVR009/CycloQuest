@@ -57,6 +57,19 @@ Pantalla Retos:
       <li>Diseño de la Interfaz de CicloParqueaderos</li>
         <ul>
           <li><i>Crear bocetos iniciales de la UI</i></li>
+          <li>Diseñar prototipos interactivos</li>
+        </ul>
+      <li>Pruebas y Depuración</li>
+        <ul>
+          <li>Realizar pruebas unitarias para cada funcionalidad desarrollada</li>
+          <li>Ejecutar pruebas de integración del sistema</li>
+          <li>Corregir bugs y optimizar el rendimiento del módulo</li>
+        </ul>
+      <li>Documentación y Despliegue</li>
+        <ul>
+          <li>Documentar el código y las funcionalidades del sprint</li>
+          <li>Preparar el módulo para el despliegue en entornos de prueba y producción</li>
+          <li>Monitorear y ajustar el módulo después del despliegue inicial</li>
         </ul>
     </ul>
   </li>
