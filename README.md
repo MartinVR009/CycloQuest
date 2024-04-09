@@ -39,7 +39,7 @@ Pantalla Retos:
         <li>Configurar el servidor y la base de datos</li>
         <li>Crear modelos de datos para parqueaderos y puntos de interés</li>
       </ul>
-    <ul>
+    </ul>
   <li>Commited</li>
     <ul>
       <li> <li>
