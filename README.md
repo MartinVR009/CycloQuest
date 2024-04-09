@@ -39,6 +39,12 @@ Pantalla Retos:
         <li>Configurar el servidor y la base de datos</li>
         <li>Crear modelos de datos para parqueaderos y puntos de interés</li>
       </ul>
+      <li>Desarrollo Frontend para Interacción con el Usuario </li>
+      <ul>
+        <li>Codificar la UI para las funcionalidades de búsqueda</li>
+        <li>Integrar los servicios de mapas y ubicación en la interfaz de usuario</li>
+        <li>Implementar los poaibles flujos de usuario para la interacción con los resultados de búsqueda</li>
+      </ul>
     </ul>
   <li>Commited</li>
     <ul>
