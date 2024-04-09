@@ -45,10 +45,19 @@ Pantalla Retos:
         <li>Integrar los servicios de mapas y ubicación en la interfaz de usuario</li>
         <li>Implementar los poaibles flujos de usuario para la interacción con los resultados de búsqueda</li>
       </ul>
+      <li>Funcionalidades de Búsqueda de CicloParqueaderos </li>
+      <ul>
+        <li>Programar la búsqueda por nombre de parqueaderos</li>
+        <li>Implementar la búsqueda por cercanía a la ubicación del usuario</li>
+        <li>Desarrollar la función de búsqueda basada en puntos de interés</li>
+      </ul>
     </ul>
   <li>Commited</li>
     <ul>
-      <li> <li>
-      </ul>
+      <li>Diseño de la Interfaz de CicloParqueaderos</li>
+        <ul>
+          <li><i>Crear bocetos iniciales de la UI</i></li>
+        </ul>
+    </ul>
   </li>
 </ol>
