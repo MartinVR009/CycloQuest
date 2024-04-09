@@ -20,5 +20,26 @@ Pantalla Social:
 Pantalla Retos:
 <img src = "casodeuso3.png", alt = "Image3", width = 200px>
 <h1>Tareas de equipo para el desarrollo de la app</h1>
-
-
+<ol>
+    <li>New</li>
+    <ul>
+      <li>Integración de parqueadores con el Mapa Principal<li>
+          <ul>
+            <li>Implementar la funcionalidad de geolocalización para ubicar parqueaderos</li>
+            <li>Desarrollar el sistema de filtrado de búsqueda en el mapa según preferencias de usuario</li>
+            <li>Conectar la interfaz de usuario con el backend para mostrar los datos en tiempo real</li>
+          </ul>
+      <li>Desarrollo Backend para la creación de grupos<li>
+      </ul>
+  </li>
+  <li>Aproved</li>
+    <ul>
+      <li>Desarrollo del Backend para CicloParqueaderos </li>
+      <li> <li>
+    <ul>
+  <li>Commited</li>
+    <ul>
+      <li> <li>
+      </ul>
+  </li>
+</ol>
