@@ -14,7 +14,7 @@ Promueve la exploración de la ciudad en bicicleta y el contacto social a travé
 <h2>Casos de Uso</h2>
 <h4>De la aplicacion</h4>
 Pantalla Principal:
-<img src = "casodeuso1", alt = "Image", width = auto>
+<img src = "casodeuso1.png", alt = "Image", width = auto>
 
 <h1>Tareas de equipo para el desarrollo de la app</h1>
 
