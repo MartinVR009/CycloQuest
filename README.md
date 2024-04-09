@@ -29,7 +29,7 @@ Pantalla Retos:
             <li>Desarrollar el sistema de filtrado de búsqueda en el mapa según preferencias de usuario</li>
             <li>Conectar la interfaz de usuario con el backend para mostrar los datos en tiempo real</li>
           </ul>
-      <li>Desarrollo Backend para la creación de grupos<li>
+      <li>Desarrollo Backend para la creación de grupos</li>
       </ul>
   </li>
   <li>Aproved</li>
